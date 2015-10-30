@@ -1,0 +1,16 @@
+GIT est un logiciel qui permet de travailler à plusieur sur un même projet.
+Il permet aussi de garder des traces de modifaications apporté successivement et de donc retrouver les versions anterieur.
+
+GitHub est un service web d'hebergement et de gestion dde développementde de logiciels, utilisant le programme Git.
+
+Faire un commit sert lorque l'on apporte une mise à hour par exemple à un fichier à le deposé sur Git tout en mettant un commentaire sur la modification apporté afin que les autres qyi travaillent sur le projets puisse savoir quellle modification a été faite.
+
+L'intérêt de généré une clé SSH pour GitHub est lorsque l'on s'authtentifie sur une machine tierce, cela permet d'avoir plus de confort lorsque l'on accède à un dépôt nécessitant une identification
+
+Les avantages de Git sont qu'on peut avoir plusieurs branches locales ou publiques, on peut faire des pull et metre a jours la version des autres, on peut faire des commit qui resteront locaux, et on peut faire des merge vers la branche commune.
+
+Un conflit est lorsque on valide un développement alors que les fichiers que l'on a modifiés ont déjà été modifiés par un autre developpeur.
+
+Pour envoyer les modifications sur Git on entre la commande "git push origin master"
+
+La branche principal sur git est la branche Master qui sera commune à tout le monde et qui représente le projet avec tout les éléments final de chacun
