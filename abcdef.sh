@@ -1,0 +1,1 @@
+mkdir 'date +%y%m%d' | touch robin
